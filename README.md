@@ -4,7 +4,7 @@
 
 I am skid (Cope About it)
 
-#### - My MC ign : sarnthil
+#### - My MC ign : sarnthil,S_A_R_N_T_H_I_l
 #### - about me : I am horny
 [![Stats bby](https://github-readme-stats.vercel.app/api?username=sarnthilIsHorny&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)             
 ### 🚀 My Projects
