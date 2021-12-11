@@ -1,8 +1,8 @@
 <img src="/top.svg"/>
 
-## Hello 👋, Iam sarnthil
+## Hello 👋, I am sarnthil
 
-I am skid (Cope About it)
+I am skidder (Cope About it if you want to)
 
 #### - My MC ign : sarnthil,S_A_R_N_T_H_I_l
 #### - about me : I am horny
