@@ -4,7 +4,7 @@
 
 I am skidder (Cope About it if you want to)
 
-#### - My MC ign : sarnthil, _Vitalasy
+#### - My MC ign : sarnthil, sarnthil07
 #### - about me : I am horny
 [![Stats bby](https://github-readme-stats.vercel.app/api?username=Vitalasy&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)             
 ### 🚀 My Projects
