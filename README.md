@@ -3,5 +3,5 @@
 <img src="https://cdn.discordapp.com/attachments/823953635347398686/941834214989512755/Capture.PNG" />
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/823953635347398686/941834215207628800/Bitches.PNG" />
-</p>
+
 
