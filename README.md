@@ -33,4 +33,4 @@
 <img src="https://cdn.discordapp.com/attachments/951343238575423559/951630043765936228/IMG_1937.jpg" />
 <img src="https://cdn.discordapp.com/attachments/951343238575423559/951630050120327228/59C406D1-317D-4987-9AF5-0DCD38A2F909.jpg" />
 <img src="https://cdn.discordapp.com/attachments/951343238575423559/951630056738914394/IMG_3115.jpg" />
-<img src="https://cdn.discordapp.com/attachments/951343238575423559/951630063642771466/IMG_3104.png" />
+<img src="https://cdn.discordapp.com/attachments/951343238575423559/951630063642771466/IMG_3104.png" /> <img src="https://media.discordapp.net/attachments/951343238575423559/953407622814502932/IMG_3227.jpg" />
