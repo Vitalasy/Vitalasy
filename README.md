@@ -19,7 +19,7 @@
 <img src="https://media.discordapp.net/attachments/951343238575423559/951629964044828682/66753392855__2D915BC2-8B8E-44F2-ABA7-8018223FE50B.jpg" />
 <img src="https://media.discordapp.net/attachments/951343238575423559/951629969266716682/IMG_2970.jpg" />
 <img src="https://media.discordapp.net/attachments/951343238575423559/951629974962589786/16548695-D4AA-4648-B6DF-176F2D54D56A.jpg" />
-<img src="https://media.discordapp.net/attachments/951343238575423559/951629980620701696/334AAF40-2E09-4528-8C1D-288CC05475A1.jpg" />" />
+<img src="https://media.discordapp.net/attachments/951343238575423559/951629980620701696/334AAF40-2E09-4528-8C1D-288CC05475A1.jpg" />
 <img src="https://media.discordapp.net/attachments/951343238575423559/951629986182332466/IMG_2974.jpg" />
 <img src="https://media.discordapp.net/attachments/951343238575423559/951629991257456721/IMG_2980.jpg " />
 <img src="https://media.discordapp.net/attachments/951343238575423559/951629997267910747/66803682555__2346620D-C379-410C-8D52-64AB0320F8B3.jpg" />
